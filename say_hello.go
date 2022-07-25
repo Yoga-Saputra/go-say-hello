@@ -7,5 +7,5 @@ package go_say_hello
 // upgrade module : only craete new tag and push using git push origin v1.5.0
 
 func SayHello() string {
-	return "Hello Yoga"
+	return "Hello Yoga Saputra"
 }
